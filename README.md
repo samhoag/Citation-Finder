@@ -1,4 +1,5 @@
 # Citation-Finder
+A tool to help me finalize the in-text citations for my ~35 page senior thesis. 
 
 This program is designed to help out students and writers like me who, instead of creating citations as they go along
 writing, just jot down a note in parenthesis vaguely referencing some article that they hopefully saved somewhere. When
